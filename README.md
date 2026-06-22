@@ -1,2 +1,3 @@
 - [2x 10uF cap](https://www.lcsc.com/product-detail/C9807.html)
 - [SN74LVC1G00DCKR](https://www.lcsc.com/product-detail/C8185.html)
+- [1206 100uF cap](https://www.lcsc.com/product-detail/C15008.html)
