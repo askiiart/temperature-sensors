@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "temp-sensors") (type "KiCad") (uri "${KIPRJMOD}/libs/temp-sensors.pretty") (options "") (descr ""))
+)
