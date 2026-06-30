@@ -9295,7 +9295,7 @@
 				)
 			)
 		)
-		(property "Value" "?pF"
+		(property "Value" "20pF"
 			(at 46.99 51.562 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10168,7 +10168,7 @@
 				)
 			)
 		)
-		(property "Value" "?pF"
+		(property "Value" "15pF"
 			(at 40.64 80.01 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14118,7 +14118,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 209.2452 302.26 0)
 			(hide yes)
 			(show_name no)
@@ -14440,7 +14440,7 @@
 				)
 			)
 		)
-		(property "Value" "?pF"
+		(property "Value" "20pF"
 			(at 46.99 64.77 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14985,7 +14985,7 @@
 				)
 			)
 		)
-		(property "Value" "?pF"
+		(property "Value" "15pF"
 			(at 40.64 66.802 90)
 			(show_name no)
 			(do_not_autoplace no)
