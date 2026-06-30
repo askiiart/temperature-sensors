@@ -93,17 +93,17 @@
 					)
 				)
 			)
-			(pin power_out line
-				(at -13.97 -6.35 0)
+			(pin input line
+				(at 13.97 6.35 180)
 				(length 2.54)
-				(name "GND"
+				(name "L2"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "2"
+				(number "3"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -273,10 +273,10 @@
 					)
 				)
 			)
-			(pin input line
-				(at 13.97 6.35 180)
+			(pin power_out line
+				(at -13.97 -6.35 0)
 				(length 2.54)
-				(name "L2"
+				(name "GND"
 					(effects
 						(font
 							(size 1.27 1.27)
